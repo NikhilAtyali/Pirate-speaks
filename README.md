@@ -1,0 +1,1 @@
+This app is build using venilla js. It converts english text into encoded pirate language
